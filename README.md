@@ -72,3 +72,10 @@ Exit
 
 Terminates the application gracefully.
 
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/8eede658-a766-4f18-afab-cd338673f7f4)
+
+![Image](https://github.com/user-attachments/assets/641142cb-6b2b-4f56-b101-2a55d6dbfa2a)
+
